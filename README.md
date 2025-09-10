@@ -10,3 +10,5 @@ It was divided into two parts :
   R-based visualization using packages such as **Leaflet** and **Shiny**
 - Heatwave summer 2022 Italy
   Python-based visualisation using librairies like **matplotlib** , **Cartopy** and **xarray**
+
+Both a rendered in R-Markdown HTML
